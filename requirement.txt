@@ -1,1 +1,14 @@
-the love of codding 
+Django
+djangorestframework
+django-cors-headers
+drf-yasg
+django-environ
+celery
+amqp
+billiard
+kombu
+vine
+PyYAML
+sqlparse
+python-dateutil
+inflection
